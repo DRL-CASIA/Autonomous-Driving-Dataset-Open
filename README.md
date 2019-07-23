@@ -190,5 +190,6 @@
 	...
 ```
 
-数据文件命名格式：赛道名-车道数-使用的bot名，数据集包含6种驾驶场景：三车道结构化道路，三车道非结构化道路，双车道结构化道路，双车道非结构化道路，单车道结构化道路和单车道非结构化道路。
+数据文件命名格式：赛道名-车道数-使用的bot名，数据集包含6种驾驶场景：三车道结构化道路，三车道非结构化道路，双车道结构化道路，双车道非结构化道路，单车道结构化道路和单车道非结构化道路。示例图片如下：
+![img](sample_images/Chenyi_wheel2/01.png)![img](sample_images/Chenyi_wheel2/02.png)![img](sample_images/Chenyi_wheel2/03.png)![img](sample_images/Chenyi_wheel2/04.png)![img](sample_images/Chenyi_wheel2/05.png)
  
